@@ -1,0 +1,61 @@
+.jumbotron {
+  background-color: #60ffde;
+}
+body {
+  background-color: #2b3e50;
+  margin-bottom: 30px;
+}
+#login-box {
+  padding: 5px 10px;
+  border-radius: 50px;
+}
+.but {
+  border: 1px solid black;
+  border-radius: 50px;
+  transition: 0.5s;
+  padding: 7.5px 12px;
+  background-color: #2b3e50;
+  color: aliceblue;
+}
+#msg-box {
+  padding: 5px 10px;
+  border-radius: 50px;
+}
+.chat {
+  bottom: 5px;
+}
+.row {
+  margin: 0px;
+}
+ul li {
+  background-color: white;
+  display: inline;
+  padding: 8px;
+  border-radius: 30px;
+  line-height: 45px;
+  padding: 1px 9px;
+  overflow-wrap: break-word;
+}
+
+.licontainer1 {
+  overflow: auto;
+}
+.licontainer2 {
+  overflow: auto;
+}
+
+.licontainer1 li {
+  float: right;
+}
+
+.licontainer2 li {
+  float: left;
+}
+
+ul {
+  width: 100%;
+  padding-inline-start: 0px;
+}
+#chat1 {
+  margin-bottom: 3rem;
+}
